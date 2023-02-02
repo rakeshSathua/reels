@@ -1,0 +1,25 @@
+.header{
+    height: 2.5rem;
+    border-bottom: 2px solid gray;
+}
+
+.body{
+    margin: 0px;
+}
+
+.main {
+    
+    text-align: left;
+    display: flex;
+}
+
+
+.pimg{
+    height: 10rem;
+    width: 10rem;
+    border-radius: 50%;
+}
+.detail{
+    justify-content: flex-end;
+
+}
